@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/github/license/oritention-geekkid/Spawn)
 
-# Spawn-2.0
+# Spawn-1.0
 ## 目录(Table of Contents)
 - [项目概述(Description)](#项目概述--description-)
 - [支持的版本(Support Version)](#支持的版本--support-version-)
