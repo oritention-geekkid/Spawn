@@ -1,0 +1,9 @@
+# Config File for Spawn 1.0
+# Before using the plugin, you'd better go through this file and change every option to what you want.
+
+SetSpawnPermission: ori.admin  # Permission Node to set spawnpoint
+JoinTPToggle: true  # Teleport your players to spawnpoint when they join the server
+RespawnTPToggle: true  # Teleport your players to spawnpoint when they respawn(Won't cancel fall damage by teleport)
+VoidTPToggle: true  # Teleport your players to spawnpoint when they fall into the void
+SpawnCommand: true  # Allow your players use /spawn to get back to the spawnpoint
+JoinClearItems: false  # Clear your players' inventory when they join the server
