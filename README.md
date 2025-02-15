@@ -24,7 +24,7 @@
 ## 下载和使用(How to Download and Use)
 * 详见Release分区
 * Go to Release area for more information
-* (www.github.com/oritention-geekkid/Global/releases)
+* (www.github.com/oritention-geekkid/Spawn/releases)
 
 ## 许可证(License)
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
